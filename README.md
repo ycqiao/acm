@@ -1,2 +1,1 @@
-# acm
-exams of acm
+This repo includes some tests on ZOJ.
